@@ -1,4 +1,4 @@
-# MarioBros_Clone_Project
+<h1 align="center">MarioBros_Clone_Project</h1>
 <p align="center">
   <img src= "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png" />
 </p>
